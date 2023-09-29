@@ -22,8 +22,7 @@ This tribute page provides a detailed account of Emilio Aguinaldo's life, achiev
 ## Features
 
 - **Biography**: A comprehensive biography of Emilio Aguinaldo, covering his early life, involvement in the Philippine Revolution, and his presidency.
-- **Image Gallery**: A collection of images related to Emilio Aguinaldo, including historical photographs and artifacts.
-- **Legacy**: Discussion of Emilio Aguinaldo's lasting impact on Philippine history and his significance as a national hero.
+
 
 ## Usage
 
