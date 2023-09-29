@@ -1,6 +1,6 @@
 # Emilio Aguinaldo Tribute Page
 
-![Emilio Aguinaldo](/images/images1.jpeg)
+![Emilio Aguinaldo](/images/images1.jpg)
 
 [Emilio Aguinaldo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquiremag.ph%2Flong-reads%2Ffeatures%2Fphilippine-american-war-emilio-aguinaldo-a2212-20210427-lfrm&psig=AOvVaw2ZtOPH_vbd64x01wA4Mv_n&ust=1696077268419000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDH0bfqz4EDFQAAAAAdAAAAABAE*)
 
